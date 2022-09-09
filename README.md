@@ -14,4 +14,6 @@ You will require an opensea API key as well as a MongoDB instance
 
 Set `main_collection_name` in the python script as the collection you want to query
 
-`python3 scripts/rarity.py`
+copy `.env.example` to `.env` and set the appropriate keys
+
+run `python3 scripts/rarity.py`
